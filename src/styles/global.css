@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @font-face {
-    font-family: 'Pixel';
-    src: url('../assets/font.ttf') format('truetype');
+    font-family: 'JetBrains Mono';
+    src: url('../assets/mono.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -67,5 +67,5 @@
     --color-p-green-200: #5ac54f;
     --color-p-green-100: #99e65f;
 
-    --font-pixel: 'Pixel', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
 }
